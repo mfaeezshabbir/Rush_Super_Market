@@ -1,0 +1,48 @@
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.exe
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.dll.config
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.deps.json
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.runtimeconfig.json
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Semester Project.pdb
+F:\C#\Semester Project\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\EntityFramework.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\SQLConnection.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.csproj.AssemblyReference.cache
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Home.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Properties.Resources.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Signin.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Signup_Form.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.csproj.GenerateResource.cache
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.AssemblyInfoInputs.cache
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.AssemblyInfo.cs
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.csproj.CoreCompileInputs.cache
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.csproj.CopyComplete
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\refint\Semester Project.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.pdb
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester Project.genruntimeconfig.cache
+F:\C#\Semester Project\obj\Debug\net6.0-windows\ref\Semester Project.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Invetory.allProducts.resources
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Dapper.dll
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Dapper.Contrib.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.mainscreen.Dashboard.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Welcome.resources
+F:\C#\Semester Project\bin\Debug\net6.0-windows\Guna.UI2.dll
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.About.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Customers.allCustomers.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Invetory.addNupdate.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Invetory.addNupdateproduct.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Orders.allOrders.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.Orders.newOrder.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.allUsers.resources
+F:\C#\Semester Project\obj\Debug\net6.0-windows\Semester_Project.addNupdateuser.resources

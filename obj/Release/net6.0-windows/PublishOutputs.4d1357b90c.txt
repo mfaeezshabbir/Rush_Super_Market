@@ -1,0 +1,20 @@
+F:\C#\Published\Inventory management\Semester Project.exe
+F:\C#\Published\Inventory management\Semester Project.dll
+F:\C#\Published\Inventory management\Semester Project.runtimeconfig.json
+F:\C#\Published\Inventory management\Semester Project.dll.config
+F:\C#\Published\Inventory management\Semester Project.pdb
+F:\C#\Published\Inventory management\Dapper.dll
+F:\C#\Published\Inventory management\Dapper.Contrib.dll
+F:\C#\Published\Inventory management\EntityFramework.SqlServer.dll
+F:\C#\Published\Inventory management\EntityFramework.dll
+F:\C#\Published\Inventory management\Guna.UI2.dll
+F:\C#\Published\Inventory management\Microsoft.Extensions.Configuration.dll
+F:\C#\Published\Inventory management\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\Published\Inventory management\Microsoft.Extensions.Primitives.dll
+F:\C#\Published\Inventory management\System.Data.SqlClient.dll
+F:\C#\Published\Inventory management\runtimes\win-arm64\native\sni.dll
+F:\C#\Published\Inventory management\runtimes\win-x64\native\sni.dll
+F:\C#\Published\Inventory management\runtimes\win-x86\native\sni.dll
+F:\C#\Published\Inventory management\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Published\Inventory management\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Published\Inventory management\Semester Project.deps.json

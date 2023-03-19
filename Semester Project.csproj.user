@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\C#\Semester Project\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Extra\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\addNupdateuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\allUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\allCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\addNupdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invetory\addNupdateproduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invetory\allproducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainscreen\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainscreen\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orders\allOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orders\newOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sign\Signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sign\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Extra\Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

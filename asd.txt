@@ -1,0 +1,123 @@
+
+                    SqlDataAdapter sda = new SqlDataAdapter("select * from usersdata where Username = '"+textUsername.Text+"' and Password = '"+textPassword.Text+"'", conn);
+                    //cmd = new SqlCommand("select count(*) from usersdata where Username = '"+textUsername.Text+"' and Password = '"+textPassword.Text+"'", conn);
+                    conn.Open();
+                    DataTable data = new DataTable();
+                    sda.Fill(data);
+                    //dr = cmd.ExecuteReader();
+                    if (data.Rows.Count==1)
+                    //if (dr.Read())
+                    {
+                        //Hide();
+                        Console.WriteLine(1213);
+                        //new Dashboard().Show();
+
+                    }
+                    else
+                    {
+                        MessageBox.Show("Incorrect Username or Password!", "Wrong Details", MessageBoxButtons.OK);
+                    }
+                    conn.Close();
+                    textUsername.Clear();
+                   textPassword.Clear();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("" + ex);
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+                    //SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""F:\C#\Semester Project\database\Semester Project.mdf"";Integrated Security=True;");
+                    //conn.Open();
+                    //SqlCommand cmd = new SqlCommand("select * from usersdata where Username = '" + this.textUsername.Text + "' and Password = '" + textPassword.Text + "'", conn);
+                    //SqlDataReader sdr = cmd.ExecuteReader();
+
+                    SqlDataAdapter sda = new SqlDataAdapter("select * from usersdata where Username = '" + textUsername.Text + "' and Password = '" + textPassword.Text + "'", conn);
+
+                    int count = 0;
+                    while (sdr.Read())
+                    {
+                        count++;
+                    }
+                    if (count == 1)
+                    {
+                            Hide();
+                            new Dashboard().Show();
+
+                    }
+                    else if (count >1)
+                    {
+                        MessageBox.Show("Duplicate Username and Password", "Login Page");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Incorrect Username or Password!", "Wrong Details", MessageBoxButtons.OK);
+                    }
+                    conn.Close();  
+
+                    
+                    //SqlDataAdapter sda = new SqlDataAdapter("select * from usersdata where Username = @username and Password = @password", conn);
+                    //sda.SelectCommand.Parameters.AddWithValue("@username", textUsername);
+                    //sda.SelectCommand.Parameters.AddWithValue("@password", textPassword);
+
+                    //DataTable data = new DataTable();
+                    //sda.Fill(data);
+                    //if (data.Rows.Count == 1)
+                    //foreach (DataRow Row in data.Rows)
+                    //{
+                    //    if (textUsername.Text == d)
+                    //    {
+                    //        Hide();
+                    //        new Dashboard().Show();
+
+                    //    }
+                    //    else
+                    //    {
+                    //        MessageBox.Show("Incorrect Username or Password!", "Wrong Details", MessageBoxButtons.OK);
+                    //}
+                    textUsername.Clear();
+                    textPassword.Clear();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("" + ex);
+                }
+            }
